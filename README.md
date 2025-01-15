@@ -8,7 +8,7 @@ WiFi Channel Selection Research Papers
 
 ## Relevant works
 
-[Reinforcement Learning-Empowered Decentralized Channel Selection for Dense Wi-Fi 7 Networks](https://ieeexplore.ieee.org/abstract/document/10404246?casa_token=FFHFNTO0AKYAAAAA:s3v1sMegw0_rUOTpMehBPgWsKmzpudbzGvgRFJxC1Ohe418p0CwWc-sa-UZ8ySHQNAPzAEx-Gw (2023)
+[Reinforcement Learning-Empowered Decentralized Channel Selection for Dense Wi-Fi 7 Networks](https://ieeexplore.ieee.org/abstract/document/10404246?casa_token=FFHFNTO0AKYAAAAA:s3v1sMegw0_rUOTpMehBPgWsKmzpudbzGvgRFJxC1Ohe418p0CwWc-sa-UZ8ySHQNAPzAEx-Gw) (2023)
 
 [Deep Learning-aided Channel Allocation Scheme for WLAN](https://ieeexplore.ieee.org/document/10068753) (2023)
 
