@@ -6,6 +6,20 @@
 # awesome-wifi-channel-selection
 WiFi Channel Selection Research Papers
 
+## Relevant works
+
+[Deep Learning-aided Channel Allocation Scheme for WLAN](https://ieeexplore.ieee.org/document/10068753) (2023)
+
+[Joint radio resource management of channel-assignment and user-association for load balancing in dense WLAN environment](https://ieeexplore.ieee.org/abstract/document/9060896) (2020)
+
+[SDN-based channel assignment algorithm for interference management in dense Wi-Fi networks](https://www.open-access.bcu.ac.uk/4038/1/SDN-Based%20Channel%20Assignment%20Algortihm%20for%20Interference%20Management%20in%20Dense%20Wifi%20Networks.pdf) (2016)
+
+[Channel assignment schemes for infrastructure-based 802.11 WLANs: A survey](https://ieeexplore.ieee.org/document/5415868) (2010)
+
+
+
+
+
 ## Our Papers
 
 
