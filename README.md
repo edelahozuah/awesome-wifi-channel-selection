@@ -12,6 +12,8 @@ WiFi Channel Selection Research Papers
 
 [Deep Learning-aided Channel Allocation Scheme for WLAN](https://ieeexplore.ieee.org/document/10068753) (2023)
 
+[Distributed channel assignment for ultra-dense wireless networks using belief propagation](https://ieeexplore.ieee.org/document/9515972) (2021)
+
 [Joint radio resource management of channel-assignment and user-association for load balancing in dense WLAN environment](https://ieeexplore.ieee.org/abstract/document/9060896) (2020)
 
 [Distributed channel selection scheme based on the number of interfering stations in WLAN](https://www.sciencedirect.com/science/article/abs/pii/S1570870515300044?via%3Dihub) (2016)
@@ -23,6 +25,8 @@ WiFi Channel Selection Research Papers
 [CACAO: Distributed Client-Assisted Channel Assignment Optimization for Uncoordinated WLANs](https://www.cse.ust.hk/~gchan/papers/TPDS_CACAO.pdf) (2011)
 
 [Channel assignment schemes for infrastructure-based 802.11 WLANs: A survey](https://ieeexplore.ieee.org/document/5415868) (2010)
+
+[Method and apparatus for least congested channel scan for wireless access points](https://patents.google.com/patent/US20060072602A1/en) (2006)
 
 
 
