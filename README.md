@@ -14,7 +14,11 @@ WiFi Channel Selection Research Papers
 
 [Distributed channel assignment for ultra-dense wireless networks using belief propagation](https://ieeexplore.ieee.org/document/9515972) (2021)
 
+[Use of a weighted conflict graph in the channel selection operation for Wi-Fi networks](https://inria.hal.science/hal-03266173/document) (2021)
+
 [Joint radio resource management of channel-assignment and user-association for load balancing in dense WLAN environment](https://ieeexplore.ieee.org/abstract/document/9060896) (2020)
+
+[A machine learning approach for IEEE 802.11 channel allocation](https://ieeexplore.ieee.org/document/8584933) (2018)
 
 [Distributed channel selection scheme based on the number of interfering stations in WLAN](https://www.sciencedirect.com/science/article/abs/pii/S1570870515300044?via%3Dihub) (2016)
 
