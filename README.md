@@ -27,6 +27,8 @@ WiFi Channel Selection Research Papers
 
 [Spectrum graph coloring to improve Wi-Fi channel assignment in a real-world scenario via edge contraction](https://ebuah.uah.es/dspace/handle/10017/64194) (2019)
 
+[A Coral Reefs Optimization algorithm with substrate layer for robust Wi-Fi channel assignment](https://ebuah.uah.es/dspace/10017/63117) (2019)
+
 [On the goodness of using orthogonal channels in WLAN IEEE 802.11 in realistic scenarios]() (2018)
 
 [Automated Negotiation for Resource Assignment in Wireless Surveillance Sensor Networks](https://ebuah.uah.es/dspace/handle/10017/23079) (2015)
