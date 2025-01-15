@@ -11,23 +11,23 @@ WiFi Channel Selection Research Papers
 
 [An Environmentally Adaptive CRO-SL Algorithm based on Dynamic Agents for the Channel Assignment Problem in Wireless Networks](https://ebuah.uah.es/dspace/handle/10017/64170) (2024)
 
-[Optimal channel assignment on dense Wi-Fi networks using Thermodynamic Threshold Accepting](https://ebuah.uah.es/dspace/handle/10017/63057)
+[Optimal channel assignment on dense Wi-Fi networks using Thermodynamic Threshold Accepting](https://ebuah.uah.es/dspace/handle/10017/63057) (2024)
 
-[Channel selection in uncoordinated ieee 802.11 networks using graph coloring](https://ebuah.uah.es/dspace/handle/10017/63069)
+[Channel selection in uncoordinated ieee 802.11 networks using graph coloring](https://ebuah.uah.es/dspace/handle/10017/63069) (2023)
 
-[Democratic Wireless Channel Assignment: Fair Resource Allocation in Wi-Fi Networks](https://ebuah.uah.es/dspace/handle/10017/63058)
+[Democratic Wireless Channel Assignment: Fair Resource Allocation in Wi-Fi Networks](https://ebuah.uah.es/dspace/handle/10017/63058) (2023)
 
-[IEEE 802.11 graph models](https://ebuah.uah.es/dspace/handle/10017/61249)
+[IEEE 802.11 graph models](https://ebuah.uah.es/dspace/handle/10017/61249) (2023)
 
-[On the benefits of channel bonding in dense, decentralized Wi-Fi 4 networks](https://ebuah.uah.es/dspace/handle/10017/59572)
+[On the benefits of channel bonding in dense, decentralized Wi-Fi 4 networks](https://ebuah.uah.es/dspace/handle/10017/59572) (2022)
 
 [A Cluster-Based Channel Assignment Technique in IEEE 802.11 Networks]()
 
-[Nonlinear Negotiation Approaches for Complex-Network Optimization: A Study Inspired by Wi-Fi Channel Assignment](https://ebuah.uah.es/dspace/handle/10017/29937)
+[Nonlinear Negotiation Approaches for Complex-Network Optimization: A Study Inspired by Wi-Fi Channel Assignment](https://ebuah.uah.es/dspace/handle/10017/29937) (2019)
 
-[Spectrum graph coloring to improve Wi-Fi channel assignment in a real-world scenario via edge contraction](https://ebuah.uah.es/dspace/handle/10017/64194)
+[Spectrum graph coloring to improve Wi-Fi channel assignment in a real-world scenario via edge contraction](https://ebuah.uah.es/dspace/handle/10017/64194) (2019)
 
-[Automated Negotiation for Resource Assignment in Wireless Surveillance Sensor Networks](https://ebuah.uah.es/dspace/handle/10017/23079)
+[Automated Negotiation for Resource Assignment in Wireless Surveillance Sensor Networks](https://ebuah.uah.es/dspace/handle/10017/23079) (2015)
 
 
 
