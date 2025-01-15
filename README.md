@@ -12,7 +12,13 @@ WiFi Channel Selection Research Papers
 
 [Joint radio resource management of channel-assignment and user-association for load balancing in dense WLAN environment](https://ieeexplore.ieee.org/abstract/document/9060896) (2020)
 
+[Distributed channel selection scheme based on the number of interfering stations in WLAN](https://www.sciencedirect.com/science/article/abs/pii/S1570870515300044?via%3Dihub) (2016)
+
 [SDN-based channel assignment algorithm for interference management in dense Wi-Fi networks](https://www.open-access.bcu.ac.uk/4038/1/SDN-Based%20Channel%20Assignment%20Algortihm%20for%20Interference%20Management%20in%20Dense%20Wifi%20Networks.pdf) (2016)
+
+[Channel management in a campus-wide WLAN with partially overlapping channel](https://ieeexplore.ieee.org/document/6666557) (2013)
+
+[CACAO: Distributed Client-Assisted Channel Assignment Optimization for Uncoordinated WLANs](https://www.cse.ust.hk/~gchan/papers/TPDS_CACAO.pdf) (2011)
 
 [Channel assignment schemes for infrastructure-based 802.11 WLANs: A survey](https://ieeexplore.ieee.org/document/5415868) (2010)
 
